@@ -1,0 +1,14 @@
+.lf {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fl {
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    border: 3px solid blue;
+    background-color:  blue;  
+    border-radius: 5px;
+    margin: 10px 5px;
+}
